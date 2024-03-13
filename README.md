@@ -1,5 +1,5 @@
 # Selenium_UTAP
-Various tests done in Ui Test Automation Playground using Selenium 
+Various automation tests done in Ui Test Automation Playground using Selenium 
 <br />
 http://uitestingplayground.com/
 <br />
